@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="64" y="64" width="384" height="384" rx="48" fill="#1E293B" stroke="#334155" stroke-width="10"/>
+  <!-- Grid lines -->
+  <line x1="192" y1="64" x2="192" y2="448" stroke="#334155" stroke-width="6"/>
+  <line x1="320" y1="64" x2="320" y2="448" stroke="#334155" stroke-width="6"/>
+  <line x1="64" y1="192" x2="448" y2="192" stroke="#334155" stroke-width="6"/>
+  <line x1="64" y1="320" x2="448" y2="320" stroke="#334155" stroke-width="6"/>
+  <!-- Pathblock barriers -->
+  <rect x="176" y="180" width="160" height="24" rx="12" fill="#F59E0B"/>
+  <rect x="308" y="180" width="24" height="160" rx="12" fill="#38BDF8"/>
+  <!-- Pawns -->
+  <circle cx="128" cy="384" r="34" fill="#10B981" stroke="#ECFDF5" stroke-width="6"/>
+  <circle cx="384" cy="128" r="34" fill="#F43F5E" stroke="#FFF1F2" stroke-width="6"/>
+</svg>

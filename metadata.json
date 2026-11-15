@@ -1,0 +1,6 @@
+{
+  "name": "Pathblock Arena",
+  "description": "4 kişiye kadar çevrimiçi çok oyunculu, rastgele seviye üreten taktiksel yol ve engel strateji oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
